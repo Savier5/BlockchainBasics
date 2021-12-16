@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BlockchainBasics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlockchainBasics_jar</output-path>
+    <root id="archive" name="BlockchainBasics.jar">
+      <element id="module-output" name="BlockchainBasics" />
+    </root>
+  </artifact>
+</component>
